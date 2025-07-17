@@ -4,7 +4,7 @@
     "slug": "varlife-student-rides",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./settingsproblem/project/assets/images/icon.png",
     "scheme": "varlife",
     "userInterfaceStyle": "automatic",
     "ios": {
@@ -22,7 +22,7 @@
     },
     "web": {
       "bundler": "metro",
-      "favicon": "./assets/images/favicon.png"
+      "favicon": "./settingsproblem/project/assets/images/favicon.png"
     },
     "plugins": [
       "expo-router",
